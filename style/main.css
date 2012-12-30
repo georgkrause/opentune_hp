@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
-    background-image: url(../img/background.png);
+    background-image: url(/img/background.png);
     background-color: #666666;
     margin: 0;
     padding: 0 0 0 0;
@@ -52,7 +52,7 @@ li.nav a {
 	min-width: 60px;
 	text-decoration: none;
 	text-align: center;
-	background-image: url(../img/menu_icon.png);
+	background-image: url(/img/menu_icon.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	padding-top: 60px;
@@ -61,7 +61,7 @@ li.nav a {
 #slider {
 	clear: both;
 	height: 250px;
-	background-image: url(../img/slider_background.png);
+	background-image: url(/img/slider_background.png);
 	font-size: 12px;
 }
 
@@ -164,7 +164,7 @@ footer {
 	text-align: center;
 	padding-top: 15px;
 	padding-bottom: 15px;
-	background-image: url(../img/footer_background.png);
+	background-image: url(/img/footer_background.png);
 	color: #949494;
 }
 
