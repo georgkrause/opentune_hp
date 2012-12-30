@@ -119,11 +119,21 @@ p.column {
 	clear: both;	
 }
 
+article {
+		background-color: rgba(0,0,0,0.1);
+		margin: 75px;
+}
+
+article img {
+	float: left;
+	border: 10px solid #ffffff;	
+}
+
 footer {
 	clear: both;
 	text-align: center;	
 	padding-top: 15px;
 	padding-bottom: 15px;
-	background-image: url(/img/footer_background.png)
+	background-image: url(/img/footer_background.png);
 	color: #949494;
 }
