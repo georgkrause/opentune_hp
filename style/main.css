@@ -148,6 +148,10 @@ article p {
 	margin-bottom: 50px;
 }
 
+article a{
+	text-decoration: none;	
+}
+
 #button {
 	background-image: linear-gradient(top, #ef920e, #af7b31);
 	background-image: -moz-linear-gradient(top, #ef920e, #af7b31);
@@ -160,6 +164,7 @@ article p {
 	color: #ffffff;
 	font-size: 20px;
 	border-radius:10px;
+	border: 1px solid #9c7640;
 }
 
 footer {
