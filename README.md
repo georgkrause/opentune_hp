@@ -1,4 +1,4 @@
 opentune_hp
 ===========
 
-homepage of opentune.de
+Homepage of OpenTune
